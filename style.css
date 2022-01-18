@@ -1,0 +1,76 @@
+body{
+    padding-left: 300px;
+    padding-right: 300px;
+    background-color: darkseagreen;
+}
+.whole{
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+.brand{
+    margin-left: 50px;
+}
+.landc{
+    display: flex;
+}
+.lang{
+    flex: 1;
+    margin-left: 50px;
+}
+.cert{
+    flex: 1;
+}
+.lan{
+    color: aqua;
+}
+.cer{
+    color: aqua;
+}
+.eands{
+    display: flex;
+    }
+.edu{
+    flex: 1;
+    margin-left: 50px;
+    }
+.skill{
+    flex: 1;
+    }    
+.ed{
+    color: aqua;
+}
+.sk{
+    color: aqua;
+}    
+.fend{
+    color: aqua;
+    margin-left: 50px;
+}
+.fen{
+    margin-left: 50px;
+}
+.contacts{
+    margin-left: 50px;
+}
+.contact{
+    color: aqua;
+}
+.exp{
+    color: aqua;
+}
+.ex{
+    display: flex;
+}
+.ex1{
+    flex: 1;
+    margin-left: 50px;
+}
+.ex2{
+    flex: 1;
+}
+li{
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+}
